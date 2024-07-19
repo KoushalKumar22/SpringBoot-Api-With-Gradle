@@ -48,7 +48,7 @@ public class TeacherController {
     }
 
 
-    @PatchMapping("/update/{id}")
+    @PatchMapping("/updateone/{id}")
     public Teacher updateOne(@PathVariable int id,@RequestBody Teacher teacher){
         Teacher t=trepo.findById(id).get();
 
