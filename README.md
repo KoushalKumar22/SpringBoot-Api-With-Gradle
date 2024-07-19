@@ -1,4 +1,4 @@
-# Spring-boot-one-to-one-api
+# SpringBoot-Api-With-Gradle
 
 This project demonstrates a simple Spring Boot application with gradle to perform basic CRUD operations on `teacher` entities. The application includes CRUD operations and allows testing through Postman.
 ## Features
