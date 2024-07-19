@@ -28,7 +28,7 @@ This project demonstrates a simple Spring Boot application with gradle to perfor
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/KoushalKumar22/Spring-boot-one-to-one-api.git
+   git clone https://github.com/KoushalKumar22/SpringBoot-Api-With-Gradle.git
    cd BreadcrumbsSpringBoot-Api-With-Gradle
 
 2. Build the project:
